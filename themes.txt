@@ -1,0 +1,17 @@
+'text': '#e9efe6',
+'background': '#171f14',
+'primary': '#59794e',
+'secondary': '#121910',
+'accent': '#6e955f',
+------------------------------
+'text': '#f2fcee',
+'background': '#0b1a05',
+'primary': '#2b6812',
+'secondary': '#102707',
+'accent': '#57d425',
+--------------------------
+'text': '#e4f6e8',
+'background': '#010402',
+'primary': '#1d5429',
+'secondary': '#12351a',
+'accent': '#50c36b',
